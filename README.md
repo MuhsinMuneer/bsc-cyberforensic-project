@@ -1,1 +1,1 @@
-# bsc-cyberforensic-project
+# Django blood bank management system
